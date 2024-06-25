@@ -1,0 +1,99 @@
+{
+    "items": [
+        {
+            "Name": "Managers",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "BackgroundColor": {
+                "r": 0.12264150381088257,
+                "g": 0.12264150381088257,
+                "b": 0.12264150381088257,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 3,
+            "ImageType": 0
+        },
+        {
+            "Name": "Enviroment",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "BackgroundColor": {
+                "r": 0.12156863510608673,
+                "g": 0.12156863510608673,
+                "b": 0.12156863510608673,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 3,
+            "ImageType": 0
+        },
+        {
+            "Name": "UI",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "BackgroundColor": {
+                "r": 0.125490203499794,
+                "g": 0.125490203499794,
+                "b": 0.125490203499794,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 3,
+            "ImageType": 0
+        },
+        {
+            "Name": "Tests",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "BackgroundColor": {
+                "r": 0.13725490868091584,
+                "g": 0.13725490868091584,
+                "b": 0.13725490868091584,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 3,
+            "ImageType": 0
+        },
+        {
+            "Name": "Other",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "BackgroundColor": {
+                "r": 0.13725490868091584,
+                "g": 0.13725490868091584,
+                "b": 0.13725490868091584,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "TextAnchor": 3,
+            "ImageType": 0
+        }
+    ]
+}

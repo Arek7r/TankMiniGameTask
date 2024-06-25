@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f7b1f2d6ab5b80468377fa029760304, type: 3}
+  m_Name: Spawn Data Lvl 1
+  m_EditorClassIdentifier: 
+  waveDataList:
+  - waveName: Wave 1
+    waveEndCondition: 1
+    objectsToSpawn:
+    - prefab: {fileID: 659139290982998913, guid: 95214a13ce1bd414b9c748ec95055e61, type: 3}
+      spawnChance: 50
+    - prefab: {fileID: 4407711031242876456, guid: 90247f5b03f4c0945abcebd3f12db651, type: 3}
+      spawnChance: 15
+    - prefab: {fileID: 5346739198904455724, guid: d44898f7c6eda9f4ab9c9d4e656f9c3f, type: 3}
+      spawnChance: 25
+    - prefab: {fileID: 206645884850417494, guid: 52aa7dc9f23405c42a730660412ff5fc, type: 3}
+      spawnChance: 10
+    autoStartNextWave: 1
+    spawnStartDelay: 0
+    spawnEverySecond: 1
+    requiredSpawnCount: 10
+    spawnDurationMinutes: 0
+    spawnDurationSeconds: 0
+  - waveName: Wave 2
+    waveEndCondition: 1
+    objectsToSpawn:
+    - prefab: {fileID: 659139290982998913, guid: 95214a13ce1bd414b9c748ec95055e61, type: 3}
+      spawnChance: 50
+    - prefab: {fileID: 4407711031242876456, guid: 90247f5b03f4c0945abcebd3f12db651, type: 3}
+      spawnChance: 15
+    - prefab: {fileID: 5346739198904455724, guid: d44898f7c6eda9f4ab9c9d4e656f9c3f, type: 3}
+      spawnChance: 25
+    - prefab: {fileID: 206645884850417494, guid: 52aa7dc9f23405c42a730660412ff5fc, type: 3}
+      spawnChance: 10
+    autoStartNextWave: 1
+    spawnStartDelay: 0
+    spawnEverySecond: 1
+    requiredSpawnCount: 10
+    spawnDurationMinutes: 0
+    spawnDurationSeconds: 0
